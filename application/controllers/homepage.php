@@ -19,7 +19,7 @@ class Homepage extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('home_page');
+		$this->load->view('Log-In');
 	}
 	public function index2()
 	{
